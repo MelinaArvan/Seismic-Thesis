@@ -6,3 +6,4 @@ M.S. thesis at ALE-TAHA Institute of Higher Education (2024):
 - Tools: ETABS, MATLAB
 - Supervisor: Dr. Salar Arian-Moghaddam
 - [Seismic Model](seismic_model.zip): Simplified ETABS model for thesis analysis.
+https://drive.google.com/file/d/11LRRcSpexIp5-YW25f2c1IY63AAO1gI3/view?usp=sharing
