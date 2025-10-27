@@ -1,4 +1,3 @@
-# Seismic-Thesis
 # Seismic Thesis Project
 M.S. thesis at ALE-TAHA Institute of Higher Education (2024):
 "Resilience-Based Seismic Design Framework for Healthcare Facilities" using ETABS. Evaluated seismic safety margins for critical structures. Presented at the 9th International Conference on Seismology.
